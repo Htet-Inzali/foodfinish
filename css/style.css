@@ -1,0 +1,20 @@
+.services-svg{
+    width: 70px;
+    height: 70px;
+    fill : var(--bs-primary)
+}
+
+.scroll-to-top{
+    bottom: 50px;
+    right: 50px;
+}
+
+#nav{
+    z-index: 1001;
+    background-color: #ffffffcc !important;
+    backdrop-filter: blur(5);
+}
+
+.nav-link{
+    font-weight: bold;
+}
